@@ -1,0 +1,147 @@
+﻿{
+    "version":  "1.0.0",
+    "minecraft_version":  "1.21.6",
+    "forge_version":  "1.21.6-56.0.9",
+    "server":  "wasabi-writings.gl.joinmc.link",
+    "server_port":  25565,
+    "mods":  [
+                 {
+                     "filename":  "awesomedungeon-forge-1.21.6-3.2.0.jar",
+                     "url":  "https://raw.githubusercontent.com/conororuiz/mods/main/mods/awesomedungeon-forge-1.21.6-3.2.0.jar",
+                     "sha256":  "206a92d0503f782f403b0d587e3946fb34aed07dddf7129847cbe51b8f643950",
+                     "size":  421212
+                 },
+                 {
+                     "filename":  "awesomedungeonocean-forge-1.21.6-3.3.0.jar",
+                     "url":  "https://raw.githubusercontent.com/conororuiz/mods/main/mods/awesomedungeonocean-forge-1.21.6-3.3.0.jar",
+                     "sha256":  "2deec1066629150508b4ae2fda5c2a32a613751440ac0cb96be07051fba4c92b",
+                     "size":  307040
+                 },
+                 {
+                     "filename":  "balm-forge-1.21.6-21.6.2-all.jar",
+                     "url":  "https://raw.githubusercontent.com/conororuiz/mods/main/mods/balm-forge-1.21.6-21.6.2-all.jar",
+                     "sha256":  "96cc669a0a6c601a2533067eda28d3502e95de4b90efdf20828d7bd52b3bf975",
+                     "size":  495908
+                 },
+                 {
+                     "filename":  "grim-kingdoms-lost-structures-ruins-v1.0.3 1.21.jar",
+                     "url":  "https://raw.githubusercontent.com/conororuiz/mods/main/mods/grim-kingdoms-lost-structures-ruins-v1.0.3%201.21.jar",
+                     "sha256":  "a5206ea376c95191d0ee9d4262421033d2d0a18ed8ab9815cf4932081d6f16fa",
+                     "size":  7066736
+                 },
+                 {
+                     "filename":  "HopoBetterUnderwaterRuins-[1.21.6]-1.2.4.jar",
+                     "url":  "https://raw.githubusercontent.com/conororuiz/mods/main/mods/HopoBetterUnderwaterRuins-%5B1.21.6%5D-1.2.4.jar",
+                     "sha256":  "",
+                     "size":  685868
+                 },
+                 {
+                     "filename":  "journeymap-forge-1.21.6-6.0.0-beta.52.jar",
+                     "url":  "https://raw.githubusercontent.com/conororuiz/mods/main/mods/journeymap-forge-1.21.6-6.0.0-beta.52.jar",
+                     "sha256":  "e8765ca375fe3b6db9eefb0809e352978246cb96232948600b7be117b5dc396d",
+                     "size":  3576617
+                 },
+                 {
+                     "filename":  "libraryferret-forge-1.21.6-4.0.0.jar",
+                     "url":  "https://raw.githubusercontent.com/conororuiz/mods/main/mods/libraryferret-forge-1.21.6-4.0.0.jar",
+                     "sha256":  "f6e1c0a9580b2fa5bd19065d4c8d25b55b185654350abd7dc8ef6884b46bbbb9",
+                     "size":  140916
+                 },
+                 {
+                     "filename":  "LightAura-8.0.0.jar",
+                     "url":  "https://raw.githubusercontent.com/conororuiz/mods/main/mods/LightAura-8.0.0.jar",
+                     "sha256":  "2f04b4ff228611676ca4518c8daa1a534546eda973522b5a1f8e15b676c7ac1b",
+                     "size":  22902
+                 },
+                 {
+                     "filename":  "livingthings-forge-1.21.6-2.3.0.jar",
+                     "url":  "https://raw.githubusercontent.com/conororuiz/mods/main/mods/livingthings-forge-1.21.6-2.3.0.jar",
+                     "sha256":  "eb81178522ecdb7bc53e1860e2e7d2868a71b11b539b8abd9868d32b9f7788ab",
+                     "size":  1015774
+                 },
+                 {
+                     "filename":  "mcw-bridges-3.1.2-mc1.21.6forge.jar",
+                     "url":  "https://raw.githubusercontent.com/conororuiz/mods/main/mods/mcw-bridges-3.1.2-mc1.21.6forge.jar",
+                     "sha256":  "02b6b471d89b0a40ea1bc914da960dd374ee73d6f992d44e91ea3f3107a5ba44",
+                     "size":  689548
+                 },
+                 {
+                     "filename":  "mcw-doors-1.1.5-mc1.21.6forge.jar",
+                     "url":  "https://raw.githubusercontent.com/conororuiz/mods/main/mods/mcw-doors-1.1.5-mc1.21.6forge.jar",
+                     "sha256":  "f552444645b11bef626155d96d2683363308aef2a1f0b6d1c90542824a6b60c5",
+                     "size":  1354857
+                 },
+                 {
+                     "filename":  "mcw-furniture-3.4.1-mc1.21.6forge.jar",
+                     "url":  "https://raw.githubusercontent.com/conororuiz/mods/main/mods/mcw-furniture-3.4.1-mc1.21.6forge.jar",
+                     "sha256":  "db764afa4023cc23ceff82419b3de671e00c4de246fdb7fcc9b7e225fe684fbf",
+                     "size":  2267215
+                 },
+                 {
+                     "filename":  "mcw-mcwfences-1.2.1-mc1.21.6forge.jar",
+                     "url":  "https://raw.githubusercontent.com/conororuiz/mods/main/mods/mcw-mcwfences-1.2.1-mc1.21.6forge.jar",
+                     "sha256":  "45350262e9c9ad137dc3af0a28d0df2180741c37e06e3e61b21188045a6d96b8",
+                     "size":  702492
+                 },
+                 {
+                     "filename":  "mcw-mcwwindows-2.4.2-mc1.21.6forge.jar",
+                     "url":  "https://raw.githubusercontent.com/conororuiz/mods/main/mods/mcw-mcwwindows-2.4.2-mc1.21.6forge.jar",
+                     "sha256":  "8938ce7779730aebd7d423b75b914369191ecc00ba7226aa1e32bcda9ec6096f",
+                     "size":  1331002
+                 },
+                 {
+                     "filename":  "mobhealthbar-forge-1.21.6-2.3.1.jar",
+                     "url":  "https://raw.githubusercontent.com/conororuiz/mods/main/mods/mobhealthbar-forge-1.21.6-2.3.1.jar",
+                     "sha256":  "8da8ea0a253bf36b7627c7df020d7525ea40b9ed50d940e120cac58e71919870",
+                     "size":  116685
+                 },
+                 {
+                     "filename":  "packedup-1.1.0-forge-mc1.21.6.jar",
+                     "url":  "https://raw.githubusercontent.com/conororuiz/mods/main/mods/packedup-1.1.0-forge-mc1.21.6.jar",
+                     "sha256":  "8059a575e2d5d036253daea48018cd2932b33a5d0a81b8c3f93575dd75deb9f9",
+                     "size":  241988
+                 },
+                 {
+                     "filename":  "Structory_Towers_26.2_v1.0.17.jar",
+                     "url":  "https://raw.githubusercontent.com/conororuiz/mods/main/mods/Structory_Towers_26.2_v1.0.17.jar",
+                     "sha256":  "226d8cb187e0d4fb75571db017c0abb26176aec16586c337a1b5620f3805a372",
+                     "size":  491515
+                 },
+                 {
+                     "filename":  "supermartijn642configlib-1.1.8-forge-mc1.21.6.jar",
+                     "url":  "https://raw.githubusercontent.com/conororuiz/mods/main/mods/supermartijn642configlib-1.1.8-forge-mc1.21.6.jar",
+                     "sha256":  "35f5f7338fb4a1acefd45a45a745947bf479089fd08129012d6fc066ccde8584",
+                     "size":  208106
+                 },
+                 {
+                     "filename":  "supermartijn642corelib-1.1.21-forge-mc1.21.6-all.jar",
+                     "url":  "https://raw.githubusercontent.com/conororuiz/mods/main/mods/supermartijn642corelib-1.1.21-forge-mc1.21.6-all.jar",
+                     "sha256":  "40b3416aa0202e37e936db82983d27af33aa3e5003a83155d917fb622c12551b",
+                     "size":  778123
+                 },
+                 {
+                     "filename":  "trashslot-forge-1.21.6-21.6.2.jar",
+                     "url":  "https://raw.githubusercontent.com/conororuiz/mods/main/mods/trashslot-forge-1.21.6-21.6.2.jar",
+                     "sha256":  "8aebecc5d926a6ebd23afac1e3c24dcd1173be779764e1ecc68662179fdd7af8",
+                     "size":  127745
+                 },
+                 {
+                     "filename":  "voicechat-forge-1.21.6-2.5.32.jar",
+                     "url":  "https://raw.githubusercontent.com/conororuiz/mods/main/mods/voicechat-forge-1.21.6-2.5.32.jar",
+                     "sha256":  "2486455d5c39585f7a144d83e952424b6deb2e7044cb65c306739fc70aa3dcd7",
+                     "size":  6830095
+                 },
+                 {
+                     "filename":  "waystones-forge-1.21.6-21.6.2.jar",
+                     "url":  "https://raw.githubusercontent.com/conororuiz/mods/main/mods/waystones-forge-1.21.6-21.6.2.jar",
+                     "sha256":  "0fff36f0a895352f3d0743945de43f3fd4cfd0e89313810933e8818667d9b3e1",
+                     "size":  883732
+                 },
+                 {
+                     "filename":  "wormhole-1.1.16-forge-mc1.21.6.jar",
+                     "url":  "https://raw.githubusercontent.com/conororuiz/mods/main/mods/wormhole-1.1.16-forge-mc1.21.6.jar",
+                     "sha256":  "14578defbbae043d487afebb2c42bd1a45aaea669213e5921ed8188becc2333a",
+                     "size":  879914
+                 }
+             ]
+}
