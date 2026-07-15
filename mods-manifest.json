@@ -24,6 +24,12 @@
                      "size":  495908
                  },
                  {
+                     "filename":  "custommenu-1.0.0.jar",
+                     "url":  "https://raw.githubusercontent.com/conororuiz/mods/main/mods/custommenu-1.0.0.jar",
+                     "sha256":  "7d106eeabf180b959e0e7df457713eca59ea3e168dc704fc139ff15fcd182703",
+                     "size":  591216
+                 },
+                 {
                      "filename":  "grim-kingdoms-lost-structures-ruins-v1.0.3 1.21.jar",
                      "url":  "https://raw.githubusercontent.com/conororuiz/mods/main/mods/grim-kingdoms-lost-structures-ruins-v1.0.3%201.21.jar",
                      "sha256":  "a5206ea376c95191d0ee9d4262421033d2d0a18ed8ab9815cf4932081d6f16fa",
